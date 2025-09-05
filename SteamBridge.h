@@ -1,6 +1,6 @@
 //
 //  SteamBridge.h
-//  infinilearn
+//  Steam Bridge
 //
 //  Created by Adrian Martinez on 9/4/25.
 //
