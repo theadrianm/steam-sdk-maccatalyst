@@ -55,7 +55,7 @@ if SteamBridge.initSteam() {
 Add your App ID (or 480 for testing) to steam_appid.txt in project root
 
 ## Usage
-Press Shift+Tab to open Steam overlay in your app!
+Right now, the current uses are very limited. Steam Overlay currently does not work.
 
 ## Limitations
 - No App Sandbox = No Mac App Store
